@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-// Importamos tu componente de perfil aquí
 import { PerfilCardComponent } from './perfil-card/perfil-card.component'; 
 
 @Component({
